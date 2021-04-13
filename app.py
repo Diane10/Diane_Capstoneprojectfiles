@@ -1431,7 +1431,7 @@ choice = st.sidebar.selectbox("Menu",menu)
 htm_temps ='''<h3>Video Description on how the system works</h3>
 
 
-"https://www.youtube.com/embed/tgbNymZ7vqY"
+"https://www.youtube.com/watch?v=Kdw4g3QCgt8"
 
 '''
     
